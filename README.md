@@ -10,8 +10,10 @@ What we're looking to do here is quantify exposure over a specific time horizon.
 
 The variance-covariance method: **Parametric Value at Risk (VaR)**. 
 
-The formula for daily VaR at a $95\%$ confidence level is:
+The formula for daily VaR at a 95% confidence level is:
+
 $$\text{VaR}_{95\%} = \text{Portfolio Value} \times (1.645\sigma_p - \mu_p)$$
+
 *Where $\mu_p$ is the expected return and $\sigma_p$ is the standard deviation.*
 
 For reference, other methods are Monte Carlo VaR and Historic VaR.
