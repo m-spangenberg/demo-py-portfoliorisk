@@ -32,7 +32,7 @@ A layman's reading of the above output is that if you invested $100,000 in Nvidi
 
 ## Reality Check 
 
-Parametric VaR is a simplified model that assumes normal distribution of returns and does not account for market shocks, liquidity issues, or other real-world factors. It relies on historical data and assumptions that may not hold true in the future. In reality, stocks like NVDA are notorious for "fat tails" (unexpected price jumps or drops). In a real market crash, this formula will drastically underestimate your actual risk—which is exactly why people pivot to the Historic or Monte Carlo methods.
+Parametric VaR is a simplified model that assumes normal distribution of returns and does not account for real-world factors. In reality, stocks like NVDA are notorious for "fat tails" (unexpected price jumps or drops). In a real market crash, this formula will drastically underestimate your actual risk, which is exactly why people pivot to the Historic or Monte Carlo methods.
 
 ## ⚠️ Disclaimer
 
