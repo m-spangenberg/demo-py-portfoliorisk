@@ -14,7 +14,7 @@ The formula for daily VaR at a 95% confidence level is:
 
 $$\text{VaR}_{95\\%} = \text{Portfolio Value} \times (1.645\sigma_p - \mu_p)$$
 
-*Where $\mu_p$ is the expected return and $\sigma_p$ is the standard deviation.*
+*Where $$\mu_p$$ is the expected return and $$\sigma_p$$ is the standard deviation.*
 
 For reference, other methods are Monte Carlo VaR and Historic VaR.
 
